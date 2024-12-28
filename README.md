@@ -43,6 +43,8 @@ print("Addition:", a + b)        # Output: 19
 print("Modulus:", a % b)         # Output: 3
 print("Exponentiation:", a ** b) # Output: 50625
 
+
+
 | **Operator**      | **Symbol** | **Example**   | **Output** |
 |-------------------|------------|---------------|------------|
 | Equal to          | `==`       | `10 == 10`    | `True`     |
