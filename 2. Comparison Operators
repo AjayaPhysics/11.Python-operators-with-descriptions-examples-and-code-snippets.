@@ -2,3 +2,11 @@ a = 10
 b = 20
 print(a == b)  # Output: False
 print(a < b)   # Output: True
+| **Operator**      | **Symbol** | **Example**   | **Output** |
+|-------------------|------------|---------------|------------|
+| Equal to          | `==`       | `10 == 10`    | `True`     |
+| Not equal to      | `!=`       | `10 != 5`     | `True`     |
+| Greater than      | `>`        | `10 > 5`      | `True`     |
+| Less than         | `<`        | `10 < 5`      | `False`    |
+| Greater or equal  | `>=`       | `10 >= 10`    | `True`     |
+| Less or equal     | `<=`       | `5 <= 10`     | `True`     |
